@@ -9,6 +9,7 @@ namespace Job_Auto
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine();
         }
     }
 }
