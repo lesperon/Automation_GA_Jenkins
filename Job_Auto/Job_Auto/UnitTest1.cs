@@ -10,6 +10,10 @@ namespace Job_Auto
         public void TestMethod1()
         {
             Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
